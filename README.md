@@ -1,4 +1,3 @@
-# Final Project
 ## Network Judging Other Network's Album Art
 
 Shawheen Tosifian, stosifia@ucsd.edu
@@ -33,6 +32,4 @@ Inside repo (ECE188_Final_Project_Report)
 
 
 ## Reference
-
-References to any papers, techniques, repositories you used:
 https://www.imageemotion.org
